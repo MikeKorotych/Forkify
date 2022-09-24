@@ -2,8 +2,6 @@
  book of recipes
 
 * You can see the source code in the "src" folder
-(to start, you need to write in the terminal: "npm init", "npm start")
-
 * In "dist" folder after compression and polyfill with parcel
 
 
